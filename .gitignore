@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+========
+>>>>>>>> branch-name
 # Ignore environment variables and API keys
 .env
 =======
